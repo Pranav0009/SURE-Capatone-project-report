@@ -1,1 +1,1 @@
-# SURE-Capatone-project-report
+# SURE-Capstone-project-report
